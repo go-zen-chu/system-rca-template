@@ -2,6 +2,8 @@
 
 For a SRE team that tries to solve difficult issues ...
 
+Please check instructions commented in the markdown template.
+
 ## Why I made this?
 
 As a member of SRE team for more than 2 years, I'd like to solve system issues more generally and algorithmatically.
